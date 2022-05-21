@@ -1,0 +1,22 @@
+{
+  "name": "firstrepo",
+  "version": "1.0.0",
+  "description": "This is the First REpo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iitmcollegeprash/FIrstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iitmcollegeprash/FIrstRepo/issues"
+  },
+  "homepage": "https://github.com/iitmcollegeprash/FIrstRepo#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
