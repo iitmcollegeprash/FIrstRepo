@@ -1,2 +1,2 @@
 npm install
-npx cypress run
+npx cypress run --browser chrome
